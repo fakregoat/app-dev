@@ -1,4 +1,4 @@
-<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/8e82bc00-973f-467e-9728-a473def72ade" /># Suits
+# Suits
 
 *Suits* is my favorite series. 
 
